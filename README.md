@@ -49,7 +49,7 @@ I have visualized the effects of variation of a particular feature on forest fir
 
 Later I have also tried it using the classification approach by updating the prediction labels.
 
-![variance](images/variance.png)
+![variance](images/variance.PNG)
 
 #### References :
 https://github.com/ashutosh-ba/Forest-Fire-Regression/blob/master/README.md
